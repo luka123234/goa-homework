@@ -9,20 +9,20 @@ birth_date = int(input("შეიყვანეთ დაბადების 
 
 
 #snake case არის როდესაც სიტყვებ შორის გამოტოვება გინდა snake caseთი შენ გამოტოვების ნაცვლად უნდა
-#დაწერო ქვედა ტირე
+#დაწერო ქვედა ტირეთი
 
 
 
 
 1
 name = 'zura'
-print(Name)
+print(name)
 2
-age - 13
+age = 13
 print(age)
 3
 Hello_world = "Hello"
-print(hello_world)
+print(Hello_world)
 4
 name = 'nika'
 print(name)
