@@ -11,16 +11,16 @@ group_62_is_best = "best"
 
 
 Name = 'nika'
-print(name)
+print(Name)
 
 goa_best = 100
-print(goa best)
+print(goa_best)
 
-name - 'mate'
-print(naMe)
+name = 'mate'
+print(name)
 
 number = 10
 print(number)
 
-goa_best = (1000%)
-print(goaBest)
+goa_best = 1000
+print(goa_best)
